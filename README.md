@@ -30,6 +30,15 @@ go get -u net
 2. Build and run the program: go run fsd_bot_socket.go.
 3. The program will establish a connection to the FSD server and start monitoring relevant events.
 
+## Languages
+
+- [Python Version](https://github.com/XLiaovo/FSD-Bot-Socket-Python-Version
+)
+- [C++ Version](https://github.com/XLiaovo/FSD-Bot-Socket-Cpp-Version
+)
+- [Go Version](https://github.com/XLiaovo/FSD-Bot-Socket-Golang-Version
+)
+
 ## License
 This project is licensed under the terms of the MIT License. See [LICENSE](LICENSE) for more details.
 
