@@ -1,5 +1,8 @@
 # FSD-Bot-Socket (Golang Version)
 
+![License](https://img.shields.io/badge/Code-Golang-blue.svg)
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
+
 **FSD-Bot-Socket** is a Go program designed to establish communication with an FSD (Flight Simulation Data) server using sockets. It allows you to monitor and interact with various events, such as ATC (Air Traffic Control) controllers and pilots going online and offline, within a flight simulation environment.
 
 This repository contains the Golang version of the FSD-Bot-Socket program. Build and run the program to start monitoring flight simulation activities.
